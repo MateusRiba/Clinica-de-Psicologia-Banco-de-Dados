@@ -87,7 +87,7 @@ Navegue pelos menus para listar, inserir, atualizar ou remover registros.
 
 ---
 
-## 🖥️ Navegação via DBeaver (opcional)
+## Navegação via DBeaver (opcional)
 
 1. **Nova conexão** → PostgreSQL.
 2. `Host=localhost`, `Port=5434`, `Database=consultorio`, `User=postgres`, `Password=1230`.
@@ -95,17 +95,13 @@ Navegue pelos menus para listar, inserir, atualizar ou remover registros.
 
 ---
 
-## 📑 Dependências principais
+## Dependências principais
 
 ```
 psycopg2-binary
 python-dotenv
 tabulate
 ```
-
-> Listadas em `requirements.txt` para `pip install -r`.
-
----
 
 
 
